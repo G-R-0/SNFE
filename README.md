@@ -10,5 +10,5 @@ running pipeline: markrank.r
 MATLAB environment.
 
 Information about the Numerical simulation
-input data: Network.csv, node.csv
+input data: Network.csv,node.csv
 running pipeline: SNFE_simulation.m
